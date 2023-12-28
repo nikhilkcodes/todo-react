@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
 * {
   background-color: #363062;
+  font-family: 'DM Sans', sans-serif;
 }
 .input-field{
   padding: 100px;
